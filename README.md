@@ -1,0 +1,2 @@
+# Exercicios-Curso2
+ Todos os exercícios feitos durante o 2º período das disciplinas de Programação de Computadores 2 e Laboratório de Programação de Computadores 2 do curso de Engenharia da Computação no CEFET-MG Campus Divinópolis. Os exercícios são compostos por atividades que utilizam métodos para POO sendo eles, classes e objetos, encapsulamento, atributos e métodos, construtores e destrutores, herança simples e múltipla, polimorfismo e leitura de diagrama de classes na linguagem C++.
